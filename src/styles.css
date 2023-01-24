@@ -56,7 +56,7 @@ body {
   border-radius: 8px;
   background-image: linear-gradient(
     var(--rotate)
-    , #5ddcff, #3c67e3 43%, #4e00c2);
+    , #5ddcff, #3c67e3 43%, #c2002a);
     position: absolute;
     z-index: -1;
     top: -1%;
